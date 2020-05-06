@@ -1,5 +1,5 @@
 <template>
-    <v-container fluid class="py-5">
+    <v-container fluid class="py-5 px-0">
         <v-row no-gutters justify="center">
             <v-col  cols="12" sm="12" md="10" lg="7" xl="7">
                 <v-row no-gutters align="center">
